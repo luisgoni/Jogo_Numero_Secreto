@@ -12,7 +12,7 @@
 // Criando uma lista vazia.
 let lista = []
 //Criando uma variavel de tentativas..
-let = numeroTentativas = 10 ; 
+let = numeroTentativas = 100 ; 
 //Criando uma variavel que gera o numero secreto..
 let numeroSecreto = gerarNumeroAleatorio();
 //Criando uma variavel que vais ser somada a cada interaçao.
@@ -31,7 +31,7 @@ function exibirTextoNaTela(tag, texto ){
 //modifiquei a teg h1, no modo iterativo... 
 exibirTextoNaTela('h1','Jogo Do Número Secreto!! ');
 //Modificando a teg 'p'.
-exibirTextoNaTela('p','Escolha um numero de 1 á 10!!');
+exibirTextoNaTela('p','Escolha um numero de 1 á 100 !!!');
 
 //Crindo uma funcao sem parametros determinados...;
 function  verificarChute() {

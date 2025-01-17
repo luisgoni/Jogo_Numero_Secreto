@@ -12,5 +12,7 @@
   <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 </div>
-</div>
+
+
+Você pode Acessar o jogo clicando nesse [link 🔗 ⬅️](https://jogo-numero-secreto-tesste.vercel.app/)
 
